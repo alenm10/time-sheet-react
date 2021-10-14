@@ -1,8 +1,17 @@
 # Time Sheet
 
-* Internship website for internal employee management.
-    * React, Spring, MySQL
-
+* Internship website project for internal employee management.
+* Frontend is implemented in React.
+* Backend is implemented in Spring using MySQL database.
+* Some of the features:
+  * Add new team members.
+  * Add new clients.
+  * Add new projects for clients, assign team leader.
+  * Add work categories.
+  * Add work details for each day.
+  * Explore each team member contributions by date, project, client or category of work.
+  * Email verification.
+    
 | ![](https://github.com/alen1010/time-sheet-react/blob/master/project/images/timesheetmonth.png?raw=true) | 
 |:--:| 
 | *Monthly calendar with total working hours* |
