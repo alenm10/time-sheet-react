@@ -50,4 +50,4 @@
 
 | ![](https://github.com/alen1010/time-sheet-react/blob/master/project/images/reports.png) | 
 |:--:| 
-| *View every team member contributions by date, client, project or category* |
+| *View each team member contributions by date, client, project or category* |
